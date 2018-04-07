@@ -1,0 +1,6 @@
+c:\users\phucnd\documents\visual studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\bin\Debug\UniKey 4.2 RC2.exe.config
+c:\users\phucnd\documents\visual studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\bin\Debug\UniKey 4.2 RC2.exe
+c:\users\phucnd\documents\visual studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\bin\Debug\UniKey 4.2 RC2.pdb
+c:\users\phucnd\documents\visual studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\obj\Debug\UniKey 4.2 RC2.csprojResolveAssemblyReference.cache
+c:\users\phucnd\documents\visual studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\obj\Debug\UniKey 4.2 RC2.exe
+c:\users\phucnd\documents\visual studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\obj\Debug\UniKey 4.2 RC2.pdb

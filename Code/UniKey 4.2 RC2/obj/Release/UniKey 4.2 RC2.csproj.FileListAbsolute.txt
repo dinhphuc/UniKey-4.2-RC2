@@ -1,0 +1,5 @@
+C:\Users\PhucND\Documents\Visual Studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\bin\Release\UniKey 4.2 RC2.exe.config
+C:\Users\PhucND\Documents\Visual Studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\bin\Release\UniKey 4.2 RC2.exe
+C:\Users\PhucND\Documents\Visual Studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\bin\Release\UniKey 4.2 RC2.pdb
+C:\Users\PhucND\Documents\Visual Studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\obj\Release\UniKey 4.2 RC2.exe
+C:\Users\PhucND\Documents\Visual Studio 2015\Projects\UniKey 4.2 RC2\UniKey 4.2 RC2\obj\Release\UniKey 4.2 RC2.pdb
